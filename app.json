@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "portifolio-paulina",
+    "slug": "portifolio-paulina",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "portifolio-paulina"
+}
